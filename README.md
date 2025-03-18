@@ -1,1 +1,1 @@
-# blogs-web
+# blogs-website
